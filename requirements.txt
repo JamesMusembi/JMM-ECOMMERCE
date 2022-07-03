@@ -4,5 +4,6 @@ django-countries==7.3.2
 django-crispy-forms==1.14.0
 django-debug-toolbar==3.5.0
 Pillow==9.2.0
+pycodestyle==2.8.0
 sqlparse==0.4.2
 typing_extensions==4.3.0
